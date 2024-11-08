@@ -57,4 +57,4 @@ print("---------------------------------------------------------------")
 ![maths exp4](https://github.com/user-attachments/assets/9698cb8e-51ab-48b4-af96-8c8d89b553a2)
 
 ## Result :
-
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
